@@ -20,5 +20,5 @@
         android:layout_height="wrap_content"
         android:text="@string/roll"
         android:layout_gravity="center_horizontal"/>
-
+<!-- Kake2-->
 </LinearLayout>
