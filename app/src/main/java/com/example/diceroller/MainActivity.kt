@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun rollDice() {
 
-
+    // Jeg heter Sondre
         val randomInt = Random().nextInt(6) + 1
 
         val drawableResource = when (randomInt) {
