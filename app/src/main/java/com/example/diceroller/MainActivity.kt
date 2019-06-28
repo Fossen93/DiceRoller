@@ -37,4 +37,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     val kake = "Kake"
+    val kjeks = "Kjeks"
 }
